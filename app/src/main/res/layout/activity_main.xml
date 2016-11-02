@@ -48,7 +48,7 @@
         android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="12dp"
-        android:layout_marginLeft="40dp">
+        android:layout_marginLeft="20dp">
 
         <LinearLayout
             android:orientation="vertical"
@@ -114,8 +114,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     app:srcCompat="@android:drawable/btn_star_big_on"
-                    android:id="@+id/imageButton11"
-                    android:layout_weight="1" />
+                    android:id="@+id/imageButton11" />
 
                 <ImageButton
                     android:layout_width="wrap_content"
